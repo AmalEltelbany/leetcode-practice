@@ -1,21 +1,23 @@
 class Solution:
-    def applyOperations(self, nums: List[int]) -> List[int]:
+    def applyOperations(self, nums):
         n = len(nums)
-        modified_nums = []
 
         # Step 1: Apply operations on the array
-        for index in range(0, n - 1):
-            if (nums[index] == nums[index + 1]) and (nums[index] != 0):
+        for index in range(n - 1):
+            if nums[index] == nums[index + 1] and nums[index] != 0:
                 nums[index] *= 2
                 nums[index + 1] = 0
 
-        # Step 2: Move non-zero elements to the front
-        for num in nums:
-            if num != 0:
-                modified_nums.append(num)
+        # Step 2: Shift non-zero elements to the beginning
+        non_zero_index = 0
+        for iterate_index in range(n):
+            if nums[iterate_index] != 0:
+                nums[non_zero_index] = nums[iterate_index]
+                non_zero_index += 1
 
-        # Step 3: Append zeros to maintain the original size
-        while len(modified_nums) < n:
-            modified_nums.append(0)
+        # Step 3: Fill the remaining positions with zeros
+        while non_zero_index < n:
+            nums[non_zero_index] = 0
+            non_zero_index += 1
 
-        return modified_nums
+        return nums

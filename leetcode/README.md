@@ -42,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2707-merge-two-2d-arrays-by-summing-values) |
+## Math
+|  |
+| ------- |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1889-check-if-number-is-a-sum-of-powers-of-three) |
 <!---LeetCode Topics End-->

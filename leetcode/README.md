@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -42,9 +43,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->

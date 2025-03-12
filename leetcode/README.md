@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3483-alternating-groups-ii) |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->

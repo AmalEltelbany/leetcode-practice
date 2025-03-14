@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/0011-container-with-most-water) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1335-maximum-candies-allocated-to-k-children) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2551-apply-operations-to-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |

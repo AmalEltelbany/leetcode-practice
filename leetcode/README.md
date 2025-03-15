@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3483-alternating-groups-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3643-zero-array-transformation-ii) |
 ## Counting
 |  |

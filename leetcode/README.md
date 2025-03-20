@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3348-minimum-cost-walk-in-weighted-graph) |
 | [3483-alternating-groups-ii](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3348-minimum-cost-walk-in-weighted-graph) |
 ## Brainteaser
 |  |
 | ------- |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3643-zero-array-transformation-ii](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3643-zero-array-transformation-ii) |
+## Union Find
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3348-minimum-cost-walk-in-weighted-graph) |
+## Graph
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3348-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->

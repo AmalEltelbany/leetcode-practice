@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3348-minimum-cost-walk-in-weighted-graph) |
+| [3430-count-days-without-meetings](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2090-number-of-ways-to-arrive-at-destination) |
+## Sorting
+|  |
+| ------- |
+| [3430-count-days-without-meetings](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3430-count-days-without-meetings) |
 <!---LeetCode Topics End-->

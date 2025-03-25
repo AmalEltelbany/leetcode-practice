@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3657-check-if-grid-can-be-cut-into-sections) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -138,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3430-count-days-without-meetings](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3657-check-if-grid-can-be-cut-into-sections) |
 <!---LeetCode Topics End-->

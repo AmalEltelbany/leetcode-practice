@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/0011-container-with-most-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1335-maximum-candies-allocated-to-k-children) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2308-divide-array-into-equal-pairs) |
@@ -71,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3657-check-if-grid-can-be-cut-into-sections) |
 <!---LeetCode Topics End-->

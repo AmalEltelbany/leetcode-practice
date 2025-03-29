@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3430-count-days-without-meetings) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/0011-container-with-most-water) |
+| [3001-apply-operations-to-maximize-score](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3001-apply-operations-to-maximize-score) |
 ## Simulation
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2649-count-total-number-of-colored-cells) |
+| [3001-apply-operations-to-maximize-score](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -151,10 +154,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2588-maximum-number-of-points-from-grid-queries) |
+## Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3001-apply-operations-to-maximize-score) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3001-apply-operations-to-maximize-score) |
+## Number Theory
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->

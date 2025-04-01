@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/0070-climbing-stairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2649-count-total-number-of-colored-cells) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/0070-climbing-stairs) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2262-solving-questions-with-brainpower) |
 ## Shortest Path
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3001-apply-operations-to-maximize-score) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

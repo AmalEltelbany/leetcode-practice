@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/0768-partition-labels) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2308-divide-array-into-equal-pairs) |
@@ -144,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2793-count-the-number-of-complete-components) |
 ## Dynamic Programming
@@ -191,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->

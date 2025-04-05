@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/0011-container-with-most-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1335-maximum-candies-allocated-to-k-children) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2262-solving-questions-with-brainpower) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/0070-climbing-stairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2649-count-total-number-of-colored-cells) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/3001-apply-operations-to-maximize-score) |
@@ -202,4 +205,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

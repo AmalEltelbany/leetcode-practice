@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/0011-container-with-most-water) |
+| [0368-largest-divisible-subset](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/0368-largest-divisible-subset) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1335-maximum-candies-allocated-to-k-children) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/0070-climbing-stairs) |
+| [0368-largest-divisible-subset](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/0368-largest-divisible-subset) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/0070-climbing-stairs) |
+| [0368-largest-divisible-subset](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/0368-largest-divisible-subset) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2262-solving-questions-with-brainpower) |
 ## Shortest Path
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/AmalEltelbany/leetcode-practice/tree/master/LeetCode/2681-put-marbles-in-bags) |
